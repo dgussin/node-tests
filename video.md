@@ -8,3 +8,5 @@
 * 54 - Testing Asynchronous Code
 * 55 - Testing Express Applications: Part 1
 * 56 - Testing Express Applications: Part 2
+* 57 - Organizing Test with describe()
+* 58 - Test Spies
